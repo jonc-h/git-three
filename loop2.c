@@ -2,7 +2,7 @@
 #include <termios.h> // in gcc, use < conio.h > in turboc
 #include <string.h>
 
-#define USERNAME    "user001"
+#define USERNAME    "user002"
 #define PASSWORD    "ok@123"
 
 /************************************************
